@@ -2,6 +2,8 @@
 
 ![BANNER](https://user-images.githubusercontent.com/76991612/221510792-38d1cfea-d5a9-4971-bc61-3022da20555e.jpg)
 
+VK API ver. 5.199
+
 ## ❗ Оглавление ##
 
 - [🍞 TOASTER](#-toaster)
